@@ -5,7 +5,7 @@ USERNAME="Mubashir2022skipq"
 TOKEN="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"
 
 
-REPO_OWNER="https://github.com/Mubashir2022skipq/Deploy-Application-todo.git"
+REPO_OWNER="Mubashir2022skipq"
 REPO_NAME="Deploy-Application-todo"
 
 # Create the folder
